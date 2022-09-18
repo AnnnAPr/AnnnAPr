@@ -28,23 +28,23 @@ experience in software testing.
 
 ### Demo
 
-Typing speed test 
+#### Typing speed test 
 User can restart test, get result, get best global score, get score charts, add user’s score
 https://typing-speed-f.herokuapp.com/
 
-Inspiration board
+#### Inspiration board
 User can create board, picked board color, add card, delete card, increase number of “likes” for card, sort cards
 https://inspo-board-frontend.herokuapp.com/
 
-Weather app
+#### Weather app
 User can pull weather data from a data source; the weather is displayed in readable, compelling way
 https://annnapr.github.io/weather-report/
 
-Parallax effect
+#### Parallax effect
 Visual 3D effect of pictures
 https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/Parallax/HawaiiParallax.html
 
-Photo gallery
+#### Photo gallery
 https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/TabGallery/HawaiiTabGallery.html
 
 
