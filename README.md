@@ -28,17 +28,13 @@ experience in software testing.
 
 ### Demo
 
-#### [Typing speed test](https://typing-speed-f.herokuapp.com/) 
-User can restart test, get result, get best global score, get score charts, add user’s score
+#### [Typing speed test](https://typing-speed-f.herokuapp.com/) User can restart test, get result, get best global score, get score charts, add user’s score
 
-#### [Inspiration board](https://inspo-board-frontend.herokuapp.com/)
-User can create board, picked board color, add card, delete card, increase number of “likes” for card, sort cards
+#### [Inspiration board](https://inspo-board-frontend.herokuapp.com/) User can create board, picked board color, add card, delete card, increase number of “likes” for card, sort cards
 
-#### [Weather app](https://annnapr.github.io/weather-report/)
-User can pull weather data from a data source; the weather is displayed in readable, compelling way
+#### [Weather app](https://annnapr.github.io/weather-report/) User can pull weather data from a data source; the weather is displayed in readable, compelling way
 
-#### [Parallax effect](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/Parallax/HawaiiParallax.html)
-Visual 3D effect of pictures
+#### [Parallax effect](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/Parallax/HawaiiParallax.html) Visual 3D effect of pictures
 
 #### [Photo gallery](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/TabGallery/HawaiiTabGallery.html)
 
