@@ -36,6 +36,6 @@ experience in software testing.
 
 #### [Parallax effect](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/Parallax/HawaiiParallax.html) Visual 3D effect of pictures
 
-#### [Photo gallery](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/TabGallery/HawaiiTabGallery.html)
+#### [Photo gallery](https://htmlpreview.github.io/?https://github.com/AnnnAPr/Hawaii/blob/main/TabGallery/HawaiiTabGallery.html) Small pictures could be expanded
 
 
