@@ -4,8 +4,8 @@
 
 ## About me
 
-I am a full stack software developer with experience in Java,  JS and Python programming languages, transitioning to tech from the
-non tech sector, passionate about creating well-designed, accessible web apps. 2 years
+I am a full stack software developer with experience in JavaScript and Python. Newly transitioning into the tech world and enthusiastic about creating well designed, accessible web apps and leveraging 2 years of experience in software testing to write clean, beautiful code.
+
 experience in software testing.
 
 ## Front-End Development
