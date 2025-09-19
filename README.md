@@ -33,7 +33,7 @@ experience in software testing.
 
 ### Demo
 
-#### [Resume <-> Job Matcher](https://huggingface.co/spaces/AnnaPr/resume-job-matcher) App matches uploaded/pasted resume with pasted job description and gives some suggestion
+#### [Resume <-> Job Matcher](https://huggingface.co/spaces/AnnaPr/resume-job-matcher) App matches uploaded/pasted resume with pasted job description and gives some suggestions
 
 #### [Typing speed test](https://typing-speed-f.herokuapp.com/) User can restart test, get result, get best global score, get score charts, add user’s score
 
